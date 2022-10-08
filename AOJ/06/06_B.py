@@ -36,14 +36,14 @@ for i in range(n):
         else:
             Pass
 
-for i in range(len(list_S)):
-    print(f"S {list_S[i]}")
+for s in list_S:
+    print(f"S {s}")
 
-for i in range(len(list_H)):
-    print(f"H {list_H[i]}")
+for s in list_H:
+    print(f"H {s}")
 
-for i in range(len(list_C)):
-    print(f"C {list_C[i]}")
+for s in list_C:
+    print(f"C {s}")
 
-for i in range(len(list_D)):
-    print(f"D {list_D[i]}")
+for s in list_D:
+    print(f"D {s}")
